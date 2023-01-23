@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "cardId": "12345",
+      "cardNumber": "36934232",
+      "title": "Mr",
+      "firstName": "John",
+      "surName": "Citizen",
+      "referenceNumber": "1",
+      "expiryDate": "10/2025",
+      "cardType": "Standard"
+    },
+    {
+      "cardId": "12345",
+      "cardNumber": "36934232",
+      "title": "Mr",
+      "firstName": "John",
+      "surName": "Citizen",
+      "referenceNumber": "1",
+      "expiryDate": "10/2025",
+      "cardType": "Standard"
+    },
+    {
+      "cardId": "12345",
+      "cardNumber": "36934232",
+      "title": "Mr",
+      "firstName": "John",
+      "surName": "Citizen",
+      "referenceNumber": "1",
+      "expiryDate": "10/2025",
+      "cardType": "Standard"
+    },
+    {
+      "cardId": "12345",
+      "cardNumber": "36934232",
+      "title": "Mr",
+      "firstName": "John",
+      "surName": "Citizen",
+      "referenceNumber": "1",
+      "expiryDate": "10/2025",
+      "cardType": "Standard"
+    },
+    {
+      "cardId": "12345",
+      "cardNumber": "36934232",
+      "title": "Mr",
+      "firstName": "John",
+      "surName": "Citizen",
+      "referenceNumber": "1",
+      "expiryDate": "10/2025",
+      "cardType": "Standard"
+    }
+  ]
+}
